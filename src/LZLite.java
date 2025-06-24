@@ -66,6 +66,7 @@ public class LZLite {
 
     //TODO: TASK 9
     public static void main(String[] args) {
+        System.out.println("test");
 
     }
 
